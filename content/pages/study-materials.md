@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides examples of study questions that are designed to
+  build understanding in language and language processing.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
